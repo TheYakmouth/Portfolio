@@ -1,0 +1,20 @@
+Empty list OK
+Test adds OK
+Test adds and removes OK
+Test contains true OK
+Test contains false OK
+Test size OK
+set 1 to list: [Arthur, Beatrice, Carl]
+set 2 to list: [Daniel, Erica, Francine]
+union: [Arthur, Daniel, Beatrice, Erica, Carl, Francine]
+Test union OK
+set 1 to list: [Arthur, Beatrice, Carl]
+set 2 to list: [Carl, Daniel, Erica, Francine]
+union: [Arthur, Carl, Beatrice, Daniel, Erica, Francine]
+Test union contains no duplicates OK
+set 1 to list: [Arthur, Beatrice, Carl, Daniel]
+set 2 to list: [Carl, Daniel, Erica]
+intersection: [Carl, Daniel]
+Test intersection OK
+Test equals true OK
+Test equals false OK

@@ -1,0 +1,11 @@
+Cryptid Binary Search Tree
+
+							C: 6.0
+						/			\
+					C: 4.6			C: 8.9
+					/	\			/	\
+				Y: 3.3	Y: 5.2	C: 7.5	Y: 9.2
+								/
+							Y: 7.1
+
+

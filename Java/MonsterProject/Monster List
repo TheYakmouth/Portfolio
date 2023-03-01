@@ -1,0 +1,41 @@
+MonsterName, AttackLocation, Damage, Date
+Godzilla Tokyo 123.45 08-27-1954
+Yeti Kathmandu 6.5 05-15-1964
+Bigfoot Detroit 3.2 02-28-1988
+Chubacabra Mazatlán 12.8 06-09-1991
+Megaladon London 56.98 06-29-2002
+
+System.out.print("Name: "+m.getMonsterName());
+System.out.print(" Location: " + m.getLocation());
+System.out.print(" Damage (Millions): $" + m.getDamage());
+System.out.print(" Date: " + m.getDate());
+System.out.println();
+
+if (lastFour < temp)
+				temp = lastFour;
+				earliestDate = attackDate;
+				
+package monsters;
+
+public class MonsterDriver extends AttackMonitor{
+
+	public static void main(String[] args) {
+		
+		AttackMonitor a = new AttackMonitor();
+		
+		System.out.printf("Enter number to run program %n"
+				+ "1.) Report a Series of 5 Attacks %n"
+				+ "2.) Show Current Series of Attacks %n"
+				+ "3.) Show a Damage Report %n"
+				+ "4.) Show Current Monsters and Attack Count %n"
+				+ "5.) Show Earliest Attack %n"
+				+ "Enter Zero to Exit Program %n");
+		
+		a.menu();
+	}
+
+}
+
+		catch(NoSuchElementException e) {
+			System.out.println("Operation closed");
+		}

@@ -1,0 +1,77 @@
+Billy the Cowboy shot at Lawman John and misses
+John the Lawman shot at Cowboy Billy and misses
+Billy the Cowboy shot at Lawman Sam and misses
+Sam the Lawman shot at Cowboy Billy and misses
+Billy the Cowboy shot at Lawman Ruth and misses
+Ruth the Lawman shot at Cowboy Billy and succeeds
+Billy was shoot for 0.25 damage, they now has 0.75 health left
+Billy the Cowboy shot at Lawman Chris and misses
+Chris the Lawman shot at Cowboy Billy and succeeds
+Billy was shoot for 0.25 damage, they now has 0.5 health left
+Katy the Cowboy shot at Lawman John and succeeds
+John was shoot for 0.5 damage, they now has 0.5 health left
+John the Lawman shot at Cowboy Katy and succeeds
+Katy was shoot for 0.25 damage, they now has 0.75 health left
+Katy the Cowboy shot at Lawman Sam and misses
+Sam the Lawman shot at Cowboy Katy and misses
+Katy the Cowboy shot at Lawman Ruth and misses
+Ruth the Lawman shot at Cowboy Katy and misses
+Katy the Cowboy shot at Lawman Chris and misses
+Chris the Lawman shot at Cowboy Katy and succeeds
+Katy was shoot for 0.25 damage, they now has 0.5 health left
+Joel the Cowboy shot at Lawman John and misses
+John the Lawman shot at Cowboy Joel and succeeds
+Joel was shoot for 0.25 damage, they now has 0.75 health left
+Joel the Cowboy shot at Lawman Sam and misses
+Sam the Lawman shot at Cowboy Joel and succeeds
+Joel was shoot for 0.25 damage, they now has 0.5 health left
+Joel the Cowboy shot at Lawman Ruth and succeeds
+Ruth was shoot for 0.5 damage, they now has 0.5 health left
+Ruth the Lawman shot at Cowboy Joel and succeeds
+Joel was shoot for 0.25 damage, they now has 0.25 health left
+Joel the Cowboy shot at Lawman Chris and misses
+Chris the Lawman shot at Cowboy Joel and succeeds
+Joel was killed!
+Ryan the Cowboy shot at Lawman John and misses
+John the Lawman shot at Cowboy Ryan and misses
+Ryan the Cowboy shot at Lawman Sam and misses
+Sam the Lawman shot at Cowboy Ryan and succeeds
+Ryan was shoot for 0.25 damage, they now has 0.75 health left
+Ryan the Cowboy shot at Lawman Ruth and misses
+Ruth the Lawman shot at Cowboy Ryan and succeeds
+Ryan was shoot for 0.25 damage, they now has 0.5 health left
+Ryan the Cowboy shot at Lawman Chris and misses
+Chris the Lawman shot at Cowboy Ryan and succeeds
+Ryan was shoot for 0.25 damage, they now has 0.25 health left
+Billy the Cowboy shot at Lawman John and misses
+John the Lawman shot at Cowboy Billy and succeeds
+Billy was shoot for 0.25 damage, they now has 0.25 health left
+Billy the Cowboy shot at Lawman Sam and misses
+Sam the Lawman shot at Cowboy Billy and succeeds
+Billy was killed!
+Katy the Cowboy shot at Lawman John and misses
+John the Lawman shot at Cowboy Katy and misses
+Katy the Cowboy shot at Lawman Sam and succeeds
+Sam was shoot for 0.5 damage, they now has 0.5 health left
+Sam the Lawman shot at Cowboy Katy and misses
+Katy the Cowboy shot at Lawman Ruth and misses
+Ruth the Lawman shot at Cowboy Katy and succeeds
+Katy was shoot for 0.25 damage, they now has 0.25 health left
+Katy the Cowboy shot at Lawman Chris and succeeds
+Chris was shoot for 0.5 damage, they now has 0.5 health left
+Chris the Lawman shot at Cowboy Katy and misses
+Ryan the Cowboy shot at Lawman John and misses
+John the Lawman shot at Cowboy Ryan and misses
+Ryan the Cowboy shot at Lawman Sam and misses
+Sam the Lawman shot at Cowboy Ryan and succeeds
+Ryan was killed!
+Katy the Cowboy shot at Lawman John and succeeds
+John was killed!
+Katy the Cowboy shot at Lawman Sam and misses
+Sam the Lawman shot at Cowboy Katy and misses
+Katy the Cowboy shot at Lawman Ruth and succeeds
+Ruth was killed!
+Katy the Cowboy shot at Lawman Chris and misses
+Chris the Lawman shot at Cowboy Katy and succeeds
+Katy was killed!
+Lawmen Win!

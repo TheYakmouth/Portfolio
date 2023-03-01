@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Pirate/src/|demos/src/|Persistence/src/|Binary Search Tree/src/|Animals/src/|Final Test Code/src/|Interface (Monster)/src/|MonsterProject/src/|AbstractDataTypeSet/src/|ThreadsTest/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="AbstractDataTypeSet/src"/>
+	<classpathentry kind="src" path="Animals/src"/>
+	<classpathentry kind="src" path="Binary Search Tree/src"/>
+	<classpathentry kind="src" path="demos/src"/>
+	<classpathentry kind="src" path="Final Test Code/src"/>
+	<classpathentry kind="src" path="Interface (Monster)/src"/>
+	<classpathentry kind="src" path="MonsterProject/src"/>
+	<classpathentry kind="src" path="Persistence/src"/>
+	<classpathentry kind="src" path="Pirate/src"/>
+	<classpathentry kind="src" path="ThreadsTest/src"/>
+	<classpathentry kind="output" path="AbstractDataTypeSet/bin"/>
+</classpath>
